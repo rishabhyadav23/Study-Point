@@ -1,5 +1,5 @@
 # Study-Point
-# About
+<h3>About:</h3>
 This is a technical website project that is developed using a Java, Servlet, JSP, jQuery, Bootstrap, HTML, CSS, and MySQL technologies. The aim of the project is to create a platform for students and learners to share their knowledge and ideas on different study topics.
 
 Features:
