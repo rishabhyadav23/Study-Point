@@ -21,3 +21,29 @@
 <p>Clean and intuitive navigation structure.</p>
 <p>Fast-loading performance.</p>
 <p>Overall, this website project offers a robust and secure platform for online learning and collaboration. The source code for the project is available on GitHub, and contributions from the community are welcome.</p>
+
+<b>#Screenshots:</b>
+<div>
+<h5>1. Home Page</h5>
+<img src="/ss/Capture.PNG" style="display: inline-block; margin: 0 auto; max-width: 200px" />
+</div>
+
+<div>
+<h5>2. Signup Page</h5>
+<img src="/ss/Capture2.PNG" style="display: inline-block; margin: 0 auto; max-width: 200px" />
+</div>
+
+<div>
+<h5>3. Login Page</h5>
+<img src="/ss/Capture3.PNG" style="display: inline-block; margin: 0 auto; max-width: 200px" />
+</div>
+
+<div>
+<h5>4. Profile</h5>
+<img src="/ss/Capture4.PNG" style="display: inline-block; margin: 0 auto; max-width: 200px" />
+</div>
+
+<div>
+<h5>5. Posts</h5>
+<img src="/ss/Capture5.PNG" style="display: inline-block; margin: 0 auto; max-width: 200px" />
+</div>
